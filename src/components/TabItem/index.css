@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.tab-name {
+  padding: 10px;
+  color: #7b8794;
+  cursor: pointer;
+  font-size: 20px;
+  border-bottom: 1px solid #7b8794;
+  background-color: transparent;
+  cursor: pointer;
+}
+.tab-btn {
+  color: #2563eb;
+  border-bottom: 2px solid #2563eb;
+  font-weight: 700;
+}
