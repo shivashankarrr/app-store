@@ -5,12 +5,10 @@
   background-color: #ffffff;
   border-radius: 10px;
   margin: 10px;
-}
-button {
-  border: 0px;
-  background-color: #ffffff;
   cursor: pointer;
+  border: 0px;
 }
+
 .icon {
   width: 100px;
 }

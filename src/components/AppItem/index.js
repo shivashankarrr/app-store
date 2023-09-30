@@ -6,10 +6,8 @@ const AppItem = props => {
   const {appName, imageUrl} = appItem
   return (
     <li className="app-item">
-      <button type="button">
-        <img src={imageUrl} alt={appName} className="icon" />
-        <h1 className="app-heading">{appName}</h1>
-      </button>
+      <img src={imageUrl} alt={appName} className="icon" />
+      <p className="app-heading">{appName}</p>
     </li>
   )
 }
